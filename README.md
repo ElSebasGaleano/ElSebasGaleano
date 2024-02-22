@@ -1,4 +1,9 @@
-### Hi there 👋
+### Juan Sebastian Galeano González
+
+Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana
+Énfasis en Desarrollo de Software
+
+👋
 
 <!--
 **ElSebasGaleano/ElSebasGaleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
